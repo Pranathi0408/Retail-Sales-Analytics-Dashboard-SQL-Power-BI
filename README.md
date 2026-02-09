@@ -1,6 +1,6 @@
 📊 # Retail-Sales-Analytics-Dashboard | SQL & Power BI
-🔍 Project Overview
 
+🔍 Project Overview
 This project analyzes 1M+ retail transactions to uncover revenue trends, customer behavior, and geographic performance insights using MySQL and Power BI.
 The goal was to build an end-to-end analytics pipeline — from raw transactional data ingestion to interactive business intelligence dashboard reporting.
 
@@ -9,6 +9,11 @@ Online Retail II dataset
 1,067,743 transactional records
 Time period: Dec 2009 – Dec 2011
 Fields include: InvoiceNo, Quantity, UnitPrice, CustomerID, Country, InvoiceDate
+
+## Dataset Source  
+Online Retail II Dataset    
+UCI Machine Learning Repository  
+https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
 ⚙️ Data Processing (SQL)   
 1️⃣ Data Ingestion  
