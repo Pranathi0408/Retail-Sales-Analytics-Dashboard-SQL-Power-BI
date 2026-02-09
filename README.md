@@ -7,7 +7,7 @@ The goal was to build an end-to-end analytics pipeline — from raw transactiona
 📁 Dataset
 Online Retail II dataset
 1,067,743 transactional records
-Time period: Dec 2009 – Dec 2011
+Time period: Dec 2009 – Dec 2011 
 Fields include: InvoiceNo, Quantity, UnitPrice, CustomerID, Country, InvoiceDate
 
 ## Dataset Source  
